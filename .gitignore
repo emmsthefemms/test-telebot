@@ -1,0 +1,10 @@
+build
+dist
+venv
+.venv
+*.egg-info
+.idea
+docs
+out
+.vscode
+__pycache__
